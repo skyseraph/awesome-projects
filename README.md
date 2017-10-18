@@ -1,6 +1,6 @@
 # Awesome-Projects
 All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
- Star? Follow? Support? 你懂！
+ Star? Follow? Support?  You know ?!
 
 
 [![GitHub stars](https://img.shields.io/github/stars/skyseraph/All-OpenSource-Project.svg?style=social&label=Star)](https://github.com/skyseraph/All-OpenSource-Project)
@@ -15,20 +15,21 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 |	[iOS](doc/ios.md)			|	Awesome iOS		|
 |	[AI](doc/ai.md)		|	Awesome AI			|
 |	[WEB](doc/web.md)	|	Awesome WEB		|
-|	[Interview](doc/interview.md)			|	Awesome interview 			|
-|	[HardWare](doc/hardWare.md)|	Awesome HardWare	|
+|	[Interview](doc/interview.md)			|	Awesome interviews 			|
+|	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
+|	[Data](doc/hardWare.md)|	Awesome Datas/EBooks	|
 
-[**Sync Android**](http://skyseraph.com/2015/11/30/Android/完整开源项目荟萃（Android篇)   
+[**Sync Android**](http://skyseraph.com/2015/11/30/Android/完整开源项目荟萃（Android篇)) 
 
 
 ## More Suggest
 
-If you have good Suggestions or comments, please click to[issues page](https://github.com/awesome-project/Doc/issues) or Email to my [Email](mailto:skyseraph00@126.com). 
+If you have good suggestions or comments, pls click to [issues page](https://github.com/skyseraph/awesome-projects/issues) or Email to my [Email](mailto:skyseraph00@126.com). 
 
 
 ## [My Blog](http://www.skyseraph.com )
 
-If you have any questions or ideas ,please feel free to contact me~
+If you have any questions or ideas , please feel free to contact me ~
 
 [skyseraph.com](http://www.skyseraph.com) 
 
