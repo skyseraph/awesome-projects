@@ -9,18 +9,25 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 
 # MENU
 
+## TECH
+
 |			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
 |	[Android](doc/android.md)	|	Awesome Android	|
 |	[iOS](doc/ios.md)			|	Awesome iOS		|
 |	[AI](doc/ai.md)		|	Awesome AI			|
 |	[WEB](doc/web.md)	|	Awesome WEB		|
-|	[Interview](doc/interview.md)			|	Awesome interviews 			|
 |	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
-|	[Data](doc/hardWare.md)|	Awesome Datas/EBooks	|
 
-[**Sync Android**](http://skyseraph.com/2015/11/30/Android/完整开源项目荟萃（Android篇)) 
 
+## DATA
+|			Menu					|		Desc.				|
+|----------------------------	|-----------------------|
+|	[Interview](doc/interview.md)	|	Awesome interviews 			|
+|	[Data](doc/data.md)|	Awesome Datas/EBooks	|
+
+## MORE
+[AllAwsome](https://github.com/AllAwsome)   
 
 ## More Suggest
 
