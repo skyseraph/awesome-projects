@@ -1,4 +1,4 @@
-# Awesome-Project
+# Awesome-Projects
 All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
  Star? Follow? Support? 你懂！
 
@@ -11,12 +11,12 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 
 |			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
-|	[Android](android.md)	|	Awesome Android	|
-|	[iOS](ios.md)			|	Awesome iOS		|
-|	[AI](ai.md)		|	Awesome AI			|
-|	[WEB](web.md)	|	Awesome WEB		|
-|	[Interview](interview.md)			|	Awesome interview 			|
-|	[HardWare](hardWare.md)|	Awesome HardWare	|
+|	[Android](doc/android.md)	|	Awesome Android	|
+|	[iOS](doc/ios.md)			|	Awesome iOS		|
+|	[AI](doc/ai.md)		|	Awesome AI			|
+|	[WEB](doc/web.md)	|	Awesome WEB		|
+|	[Interview](doc/interview.md)			|	Awesome interview 			|
+|	[HardWare](doc/hardWare.md)|	Awesome HardWare	|
 
 [**Sync Android**](http://skyseraph.com/2015/11/30/Android/完整开源项目荟萃（Android篇)   
 
