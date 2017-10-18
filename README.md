@@ -9,13 +9,13 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 
 # MENU
 
-# Others
-
-## Update    
+[android](https://github.com/skyseraph/awesome-project/blob/master/android.md)    
+[iOS](https://github.com/skyseraph/awesome-project/blob/master/iOS.md)    
+[AI](https://github.com/skyseraph/awesome-project/blob/master/AI.md)    
+[WEB](https://github.com/skyseraph/awesome-project/blob/master/WEB.md)    
 
 [**Sync**](http://skyseraph.com/2015/11/30/Android/完整开源项目荟萃（Android篇)   
 
-- 2015.3.22 Create   
 
 ## More Suggest
 
