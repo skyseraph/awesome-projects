@@ -3,27 +3,28 @@
 
 > 高仿
 
-- [LQRWeChat 仿微信6.5.7（基于融云SDK）](https://github.com/GitLqr/LQRWeChat) 
-- [wechat 仿微信 ](https://github.com/motianhuo/wechat) 
-- [WeiBo 仿新浪微博](https://github.com/wenmingvs/WeiBo) 
-- [TouTiao 仿今日头条](https://github.com/chaychan/TouTiao)
-- [TopNews 高仿“今日头条”客户端 ](https://github.com/Rano1/TopNews) 
-- [KingTV 仿全民直播（全民TV）](https://github.com/jenly1314/KingTV) 
-- [remusic 仿网易云音乐](https://github.com/aa112901/remusic) 
-- [CloudReader 云阅(仿网易云音乐UI)](https://github.com/youlookwhat/CloudReader) 
-- [KuaiChuan 仿茄子快传](https://github.com/mayubao/KuaiChuan)
-- [CoolShopping 仿拉手团购](https://github.com/myxh/CoolShopping)
-- [bilibili-android-client 高仿哔哩哔哩动画](https://github.com/HotBitmapGG/bilibili-android-client) 
-- [TongBanJie 高仿铜板街](https://github.com/movexmanlife/TongBanJie)
-- [Liwusuo 仿礼物说](https://github.com/Orangelittle/Liwusuo)
+- [LQRWeChat ](https://github.com/GitLqr/LQRWeChat) 仿微信6.5.7（基于融云SDK）    
+- [wechat ](https://github.com/motianhuo/wechat)  仿微信   
+- [WeiBo](https://github.com/wenmingvs/WeiBo)   仿新浪微博   
+- [TouTiao ](https://github.com/chaychan/TouTiao)仿今日头条   
+- [TopNews  ](https://github.com/Rano1/TopNews) 高仿“今日头条”客户端   
+- [KingTV ](https://github.com/jenly1314/KingTV) 仿全民直播（全民TV）  
+- [remusic ](https://github.com/aa112901/remusic) 仿网易云音乐   
+- [CloudReader ](https://github.com/youlookwhat/CloudReader) 云阅(仿网易云音乐UI)   
+- [KuaiChuan ](https://github.com/mayubao/KuaiChuan)仿茄子快传   
+- [CoolShopping ](https://github.com/myxh/CoolShopping)仿拉手团购  
+- [bilibili-android-client ](https://github.com/HotBitmapGG/bilibili-android-client) 高仿哔哩哔哩动画   
+- [TongBanJie ](https://github.com/movexmanlife/TongBanJie)高仿铜板街  
+- [Liwusuo ](https://github.com/Orangelittle/Liwusuo)仿礼物说   
 - [36krReader](https://github.com/kinneyyan/36krReader) 36氪客户端  
-- [cnblogs](https://github.com/avenwu/cnblogs) 博客园客户端 
-博客园客户端（作者有保留，未完全开源）
+- [cnblogs](https://github.com/avenwu/cnblogs) 博客园客户端（作者有保留，未完全开源）
 - [FanfouDaily](https://github.com/Anthonyeef/FanfouDaily) 饭否精选  
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO)  Gank.IO
+- [ganguo](https://github.com/yanyiqun001/ganguo) gank客户端
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) 知乎日报
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) 更纯净的知乎日报   
 - [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) 知乎专栏 
+- [Tucao](https://github.com/blackbbc/Tucao)  [吐槽三方客户端](http://www.tucao.tv/)
 
 > 原生 
 
@@ -34,6 +35,8 @@
 - [GithubTrends](https://github.com/laowch/GithubTrends) 
 - [Meizhi](https://github.com/drakeet/Meizhi) 干妹子 
 - [android-arsenal.com](https://github.com/vbauer/android-arsenal.com) android-arsenal.com客户端 
+- [Protein](https://github.com/gejiaheng/Protein) An Android App for [Dribbble](https://dribbble.com/)  
+- [diycode](https://github.com/GcsSloop/diycode) [Diycode](https://www.diycode.cc/)社区客户端
 
 > 资讯/生活
   
@@ -71,8 +74,8 @@ Todo Android App using Realm and Lolipop Material Design.
 - [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)  Amaze File Manager
 - [MobileSafer](https://github.com/msAndroid/MobileSafer)  手机安全小卫士
 - [MobileGuard](https://github.com/ittianyu/MobileGuard) 一个管理安卓手机的应用，支持安卓7.0 
-- [MemoryMonitor](https://github.com/cundong/MemoryMonitor)
-一款开发者专用的内存清理、Pss监控工具
+- [MemoryMonitor](https://github.com/cundong/MemoryMonitor) 一款开发者专用的内存清理、Pss监控工具    
+- [TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)Android计步模块     
 
 # Android Modules
 
