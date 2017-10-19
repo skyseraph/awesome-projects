@@ -2,7 +2,6 @@
 
 # AI Awesomes
 
-- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/AllAwsome/awesome-tensorflow.svg?style=social&label=Star)](https://github.com/AllAwsome/awesome-tensorflow)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning )[![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg?style=social&label=Star)](https://github.com/josephmisiti/awesome-machine-learning)
 - [dl1](https://github.com/ty4z2008/Qix/blob/master/dl.md)  [dl2](https://github.com/ty4z2008/Qix/blob/master/dl2.md )[![GitHub stars](https://img.shields.io/github/stars/ty4z2008/Qix.svg?style=social&label=Star)](https://github.com/ty4z2008/Qix)
 - [awesome-machine-learning-cn ](https://github.com/jobbole/awesome-machine-learning-cn )[![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-machine-learning-cn.svg?style=social&label=Star)](https://github.com/jobbole/awesome-machine-learning-cn)
@@ -10,6 +9,7 @@
 - [App-DL](https://github.com/lipiji/App-DL )[![GitHub stars](https://img.shields.io/github/stars/lipiji/App-DL.svg?style=social&label=Star)](https://github.com/lipiji/App-DL)
 - [AIStartups](https://github.com/lipiji/AIStartups)[![GitHub stars](https://img.shields.io/github/stars/lipiji/AIStartups.svg?style=social&label=Star)](https://github.com/lipiji/AIStartups)
 - [Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL)[![GitHub stars](https://img.shields.io/github/stars/tomepel/Technical_Book_DL.svg?style=social&label=Star)](https://github.com/tomepel/Technical_Book_DL)
+- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/AllAwsome/awesome-tensorflow.svg?style=social&label=Star)](https://github.com/AllAwsome/awesome-tensorflow)
 
 # TensorFlow Projects
 
