@@ -3,9 +3,13 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
  Star? Follow? Support?  You know ?!
 
 
-[![GitHub stars](https://img.shields.io/github/stars/skyseraph/All-OpenSource-Project.svg?style=social&label=Star)](https://github.com/skyseraph/All-OpenSource-Project)
-[![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/All-OpenSource-Project.svg?style=social&label=Watch)](https://github.com/skyseraph/All-OpenSource-Project)
-[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/All-OpenSource-Project) 
+[![GitHub tag](https://img.shields.io/github/tag/skyseraph/awesome-projects.svg)](https://github.com/skyseraph/awesome-projects/releases)
+[![GitHub issues](https://img.shields.io/github/issues/skyseraph/awesome-projects.svg)](https://github.com/skyseraph/awesome-projects/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/skyseraph/awesome-projects.svg)](https://github.com/skyseraph/awesome-projects/pulls)
+
+[![GitHub stars](https://img.shields.io/github/stars/skyseraph/awesome-projects.svg?style=social&label=Star)](https://github.com/skyseraph/awesome-projects)
+[![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/awesome-projects.svg?style=social&label=Watch)](https://github.com/skyseraph/awesome-projects)
+[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/awesome-projects) 
 
 # MENU
 
@@ -52,4 +56,4 @@ If you have any questions or ideas , please feel free to contact me ~
 License
 -------
 
-[![license](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/skyseraph/Soft-Tools/blob/master/LICENSE)
+[![license](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/skyseraph/awesome-projects/blob/master/LICENSE)
