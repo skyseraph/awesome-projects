@@ -47,7 +47,7 @@
 - [shuba](https://github.com/liuguangqiang/shuba) 书吧
 - [MyDiary](https://github.com/erttyy8821/MyDiary)  君の名は。, 你的名字  
 
-> 音视频/图片
+> 音视图
 
 - [HappyPlayer5（基于ijkplayer框架的Android音乐播放器）](https://github.com/zhangliangming/HappyPlayer5)
 - [SmarterStreaming（大牛直播)](https://github.com/daniulive/SmarterStreaming)
