@@ -22,6 +22,7 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 |	[AI](doc/ai.md)		|	Awesome AI			|
 |	[Front-End](doc/front_end.md)	|	Awesome Front-End		|
 |	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
+|	[Tech](doc/Tech.md)|	Awesome Techs All	|
 
 
 ## DATA
