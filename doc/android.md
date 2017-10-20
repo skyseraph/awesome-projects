@@ -11,6 +11,8 @@ Awesome Android ~
 - [Android_Data](https://github.com/Freelander/Android_Data) [![GitHub stars](https://img.shields.io/github/stars/Freelander/Android_Data.svg?style=social&label=Star)](https://github.com/Freelander/Android_Data)
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) [![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-libraries.svg?style=social&label=Star)](https://github.com/wasabeef/awesome-android-libraries)
 - [awesome-android](https://github.com/JStumpp/awesome-android) [![GitHub stars](https://img.shields.io/github/stars/JStumpp/awesome-android.svg?style=social&label=Star)](https://github.com/JStumpp/awesome-android)
+- [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)[![GitHub stars](https://img.shields.io/github/stars/lightSky/Awesome-MaterialDesign.svg?style=social&label=Star)](https://github.com/lightSky/Awesome-MaterialDesign)
+- [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)[![GitHub stars](https://img.shields.io/github/stars/CameloeAnthony/AndroidArchitectureCollection.svg?style=social&label=Star)](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
 
 # Projects
 
