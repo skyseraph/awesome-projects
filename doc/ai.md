@@ -13,7 +13,9 @@
 
 
 ## TensorFlow
-- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/AllAwsome/awesome-tensorflow.svg?style=social&label=Star)](https://github.com/AllAwsome/awesome-tensorflow)
+- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow.svg?style=social&label=Star)]
+
+https://github.com/jtoy/awesome-tensorflow
 
 ## CV
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)[![GitHub stars](https://img.shields.io/github/stars/wanghaisheng/awesome-ocr.svg?style=social&label=Star)](https://github.com/wanghaisheng/awesome-ocr)
