@@ -1,5 +1,17 @@
+Awesome Android ~
 
-# Android Projects
+# Awesomes
+
+- [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) [![GitHub stars](https://img.shields.io/github/stars/opendigg/awesome-github-android-ui.svg?style=social&label=Star)](https://github.com/opendigg/awesome-github-android-ui)
+- [QMUI_Android](https://github.com/QMUI/QMUI_Android) [![GitHub stars](https://img.shields.io/github/stars/QMUI/QMUI_Android.svg?style=social&label=Star)](https://github.com/QMUI/QMUI_Android)
+- [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) [![GitHub stars](https://img.shields.io/github/stars/jiang111/awesome-android-tips.svg?style=social&label=Star)](https://github.com/jiang111/awesome-android-tips)
+- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) [![GitHub stars](https://img.shields.io/github/stars/wingjay/android-open-source-project-cracking.svg?style=social&label=Star)](https://github.com/wingjay/android-open-source-project-cracking)
+- [android-security-awesome](https://github.com/ashishb/android-security-awesome) [![GitHub stars](https://img.shields.io/github/stars/ashishb/android-security-awesome.svg?style=social&label=Star)](https://github.com/ashishb/android-security-awesome)
+- [Android_Data](https://github.com/Freelander/Android_Data) [![GitHub stars](https://img.shields.io/github/stars/Freelander/Android_Data.svg?style=social&label=Star)](https://github.com/Freelander/Android_Data)
+- [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) [![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-libraries.svg?style=social&label=Star)](https://github.com/wasabeef/awesome-android-libraries)
+- [awesome-android](https://github.com/JStumpp/awesome-android) [![GitHub stars](https://img.shields.io/github/stars/JStumpp/awesome-android.svg?style=social&label=Star)](https://github.com/JStumpp/awesome-android)
+
+# Projects
 
 > 高仿
 
@@ -77,16 +89,5 @@ Todo Android App using Realm and Lolipop Material Design.
 - [MemoryMonitor](https://github.com/cundong/MemoryMonitor) 一款开发者专用的内存清理、Pss监控工具    
 - [TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)Android计步模块     
 
-# Android Modules
+# Modules
 
-# Android Awesomes
-
-
-- [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) [![GitHub stars](https://img.shields.io/github/stars/opendigg/awesome-github-android-ui.svg?style=social&label=Star)](https://github.com/opendigg/awesome-github-android-ui)
-- [QMUI_Android](https://github.com/QMUI/QMUI_Android) [![GitHub stars](https://img.shields.io/github/stars/QMUI/QMUI_Android.svg?style=social&label=Star)](https://github.com/QMUI/QMUI_Android)
-- [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) [![GitHub stars](https://img.shields.io/github/stars/jiang111/awesome-android-tips.svg?style=social&label=Star)](https://github.com/jiang111/awesome-android-tips)
-- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) [![GitHub stars](https://img.shields.io/github/stars/wingjay/android-open-source-project-cracking.svg?style=social&label=Star)](https://github.com/wingjay/android-open-source-project-cracking)
-- [android-security-awesome](https://github.com/ashishb/android-security-awesome) [![GitHub stars](https://img.shields.io/github/stars/ashishb/android-security-awesome.svg?style=social&label=Star)](https://github.com/ashishb/android-security-awesome)
-- [Android_Data](https://github.com/Freelander/Android_Data) [![GitHub stars](https://img.shields.io/github/stars/Freelander/Android_Data.svg?style=social&label=Star)](https://github.com/Freelander/Android_Data)
-- [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) [![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-libraries.svg?style=social&label=Star)](https://github.com/wasabeef/awesome-android-libraries)
-- [awesome-android](https://github.com/JStumpp/awesome-android) [![GitHub stars](https://img.shields.io/github/stars/JStumpp/awesome-android.svg?style=social&label=Star)](https://github.com/JStumpp/awesome-android)
