@@ -1,6 +1,7 @@
 # Awesome-Projects
-All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
- Star? Follow? Support?  You know ?!
+All awesome-projects pick , Tech（AI/Android/iOS...）or Non-Tech（EBooks/softs...）...
+
+Star? Follow? Support?  You know ?!
 
 
 [![GitHub tag](https://img.shields.io/github/tag/skyseraph/awesome-projects.svg)](https://github.com/skyseraph/awesome-projects/releases)
@@ -17,22 +18,25 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 
 |			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
-|	[Android](doc/android.md)	|	Awesome Android	|
-|	[iOS](doc/ios.md)			|	Awesome iOS		|
-|	[AI](doc/ai.md)		|	Awesome AI			|
-|	[Front-End](doc/front_end.md)	|	Awesome Front-End		|
-|	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
-|	[Tech](doc/Tech.md)|	Awesome Techs All	|
+|	[Android](doc/android.md)	|	Awesome Androids	|
+|	[iOS](doc/ios.md)			|	Awesome iOSs		|
+|	[AI](doc/ai.md)		|	Awesome AIs			|
+|	[Front-End](doc/front_end.md)	|	Awesome Front-Ends		|
+|	[HardWare](doc/hardware.md)|	Awesome HardWares	|
+|	[Tech](doc/tech_all.md)|	Awesome Techs Alls	|
 
 
-## DATA
+## NON-TECH
 |			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
 |	[Web](doc/weblink.md)	|	Awesome Web Links 			|
 |	[Interview](doc/interview.md)	|	Awesome interviews 			|
-|	[Data](doc/data.md)|	Awesome Datas/EBooks	|
+|	[Soft](doc/soft.md)|	Awesome Softs	|
+|	[EBooks](doc/ebooks.md)|	Awesome EBooks	|
+|	[Data](doc/data.md)|	Awesome Datas	|
 
 ## MORE
+
 [AllAwsome](https://github.com/AllAwsome)   
 
 ## More Suggest
