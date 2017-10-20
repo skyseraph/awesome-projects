@@ -17,6 +17,7 @@
 
 
 ## CV
+- [computer-science](https://github.com/ossu/computer-science)[![GitHub stars](https://img.shields.io/github/stars/ossu/computer-science.svg?style=social&label=Star)](https://github.com/ossu/computer-science)
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)[![GitHub stars](https://img.shields.io/github/stars/wanghaisheng/awesome-ocr.svg?style=social&label=Star)](https://github.com/wanghaisheng/awesome-ocr)
 
 
