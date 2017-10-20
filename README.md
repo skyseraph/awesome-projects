@@ -20,14 +20,14 @@ All-OpenSource-Project Pick , including but not limited to Android, iOS, Web...
 |	[Android](doc/android.md)	|	Awesome Android	|
 |	[iOS](doc/ios.md)			|	Awesome iOS		|
 |	[AI](doc/ai.md)		|	Awesome AI			|
-|	[WEB](doc/web.md)	|	Awesome WEB		|
+|	[Front-End](doc/front_end.md)	|	Awesome Front-End		|
 |	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
 
 
 ## DATA
 |			Menu					|		Desc.				|
 |----------------------------	|-----------------------|
-|	[Web Links](doc/weblink.md)	|	Awesome Web Links 			|
+|	[Web](doc/weblink.md)	|	Awesome Web Links 			|
 |	[Interview](doc/interview.md)	|	Awesome interviews 			|
 |	[Data](doc/data.md)|	Awesome Datas/EBooks	|
 
