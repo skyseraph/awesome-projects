@@ -10,7 +10,7 @@
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)[![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac.svg?style=social&label=Star)](https://github.com/jaywcjlove/awesome-mac)
 
 ## EBooks
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)[![GitHub stars](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg?style=social&label=Star)](https://github.com/justjavac/free-programming-books-zh_CN)
 - [books](https://github.com/programthink/books)[![GitHub stars](https://img.shields.io/github/stars/programthink/books.svg?style=social&label=Star)](https://github.com/programthink/books)
 
 ## Datas
