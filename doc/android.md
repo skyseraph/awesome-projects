@@ -123,20 +123,24 @@ Todo Android App using Realm and Lolipop Material Design.
 
 - 网络：[retrofit](https://github.com/square/retrofit);[okhttp](https://github.com/square/okhttp);[RxEasyHttp](https://github.com/zhou-you/RxEasyHttp);[NoHttp](https://github.com/yanzhenjie/NoHttp)
 - 通信：[EventBus](https://github.com/greenrobot/EventBus); [AndroidEventBus](https://github.com/hehonghui/AndroidEventBus); [otto](https://github.com/square/otto)
-- 图片：[glide](https://github.com/bumptech/glide); [picasso](https://github.com/square/picasso);[PhotoView](https://github.com/chrisbanes/PhotoView); [PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa); [Matisse多图选择](https://github.com/zhihu/Matisse);[GlideImageView](https://github.com/sfsheng0322/GlideImageView)
-- 支付：[RxPay](https://github.com/Cuieney/RxPay)
-- 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)
-- 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)
+- 图片：    
+glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https://github.com/sfsheng0322/GlideImageView); [Matisse多图选择](https://github.com/zhihu/Matisse);  
+photoview系： [photoview](https://github.com/chrisbanes/PhotoView); [DragPhotoView拖拽返回](https://github.com/githubwing/DragPhotoView)  
+others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);    
+- 支付：[RxPay](https://github.com/Cuieney/RxPay)  
+- 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)  
+- 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)  
 - 热更新: 
-- 更新：[AppUpdate](https://github.com/WVector/AppUpdate);[CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)，
-- 下载： [Aria](https://github.com/AriaLyy/Aria)
-- 弹幕： [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
-- 主题切换：[MagicaSakura](https://github.com/Bilibili/MagicaSakura); [Android-skin-support](https://github.com/ximsfei/Android-skin-support)， 
-- 分享：[BiliShare](https://github.com/Bilibili/BiliShare)
-- 推送：[OnePush](https://github.com/pengyuantao/OnePush)
-- WebView： [AgentWeb](https://github.com/Justson/AgentWeb); [Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)
-- DB: [LitePal](https://github.com/LitePalFramework/LitePal)
-- 二维码： [zxing](https://github.com/zxing/zxing)
+- 更新：[AppUpdate](https://github.com/WVector/AppUpdate);[CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)，  
+- 下载： [Aria](https://github.com/AriaLyy/Aria)  
+- 弹幕： [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)  
+- 主题切换：[MagicaSakura](https://github.com/Bilibili/MagicaSakura); [Android-skin-support](https://github.com/ximsfei/Android-skin-support)   
+- 分享：[BiliShare](https://github.com/Bilibili/BiliShare)  
+- 推送：[OnePush](https://github.com/pengyuantao/OnePush)  
+- WebView： [AgentWeb](https://github.com/Justson/AgentWeb); [Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)  
+- DB: [LitePal](https://github.com/LitePalFramework/LitePal)  
+- 二维码： [zxing](https://github.com/zxing/zxing)  
+- 权限： [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher); [PermissionGen](https://github.com/lovedise/PermissionGen); [RxPermissions](https://github.com/tbruyelle/RxPermissions); [AndPermission](https://github.com/yanzhenjie/AndPermission)  
 
 > **UI**
 
