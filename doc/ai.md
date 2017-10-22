@@ -25,6 +25,8 @@
 
 ## AI
 
+- [EasyML](https://github.com/ICT-BDA/EasyML)
+
 ## TensorFlow
 - [music_recommender](https://github.com/mattmurray/music_recommender)   [article](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
 

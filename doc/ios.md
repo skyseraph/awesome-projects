@@ -23,9 +23,16 @@
 - [meituan](https://github.com/lookingstars/meituan) 高仿美团  
 - [nuomi](https://github.com/lookingstars/nuomi) 高仿百度糯米
 
+
 > 新闻/资讯  
 
 - [DoubanAlbum](https://github.com/TonnyTao/DoubanAlbum) 豆瓣相册 
 - [Reader](https://github.com/vfr/Reader) iOS PDF阅读器
 - [NewsReader](https://github.com/cubewang/GameDaily) VOA在线英语 
 
+# Modules
+
+- [TodayMind](https://github.com/cyanzhong/TodayMind)日历提醒
+- [CoreLock](https://github.com/CharlinFeng/CoreLock) 仿支付宝解锁
+- [ZYChat](https://github.com/zyprosoft/ZYChat) 聊天UI框架
+  
