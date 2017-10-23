@@ -55,6 +55,7 @@ Awesome Android ~
 - [android-arsenal.com](https://github.com/vbauer/android-arsenal.com) android-arsenal.com客户端 
 - [Protein](https://github.com/gejiaheng/Protein) An Android App for [Dribbble](https://dribbble.com/)  
 - [diycode](https://github.com/GcsSloop/diycode) [Diycode](https://www.diycode.cc/)社区客户端
+- [RxGank](https://github.com/sfsheng0322/RxGank) 干货集中营客户端
 
 > **资讯/生活**
   
@@ -64,7 +65,8 @@ Awesome Android ~
 - [SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 - [shuba](https://github.com/liuguangqiang/shuba) 书吧
 - [MyDiary](https://github.com/erttyy8821/MyDiary)  君の名は。, 你的名字  
-- [HeartBeat](https://github.com/maxiee/HeartBeat)  心动——记录生活中的心动瞬间
+- [HeartBeat](https://github.com/maxiee/HeartBeat)  心动——记录生活中的心动瞬间.
+- [Bingo](https://github.com/sfsheng0322/Bingo) IT阅读学习App
 
 > **音视图**
 
