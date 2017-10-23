@@ -10,7 +10,7 @@
 - [App-DL](https://github.com/lipiji/App-DL )[![GitHub stars](https://img.shields.io/github/stars/lipiji/App-DL.svg?style=social&label=Star)](https://github.com/lipiji/App-DL)
 - [AIStartups](https://github.com/lipiji/AIStartups)[![GitHub stars](https://img.shields.io/github/stars/lipiji/AIStartups.svg?style=social&label=Star)](https://github.com/lipiji/AIStartups)
 - [Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL)[![GitHub stars](https://img.shields.io/github/stars/tomepel/Technical_Book_DL.svg?style=social&label=Star)](https://github.com/tomepel/Technical_Book_DL)
-
+- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)[![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence.svg?style=social&label=Star)](https://github.com/owainlewis/awesome-artificial-intelligence)
 
 ## TensorFlow
 - [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow.svg?style=social&label=Star)
