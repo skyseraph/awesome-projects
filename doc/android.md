@@ -109,6 +109,7 @@ Todo Android App using Realm and Lolipop Material Design.
 - [android-gradle-template](https://github.com/nenick/android-gradle-template)
 - [ScreenCapture](https://github.com/goodbranch/ScreenCapture)
 - [AndroidShell](https://github.com/jaredrummler/AndroidShell)
+- [android-proguards](https://github.com/yongjhih/android-proguards), [/android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets)
 
 > **Utils**
 
