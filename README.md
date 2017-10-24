@@ -20,7 +20,7 @@ Star? Follow? Support?  You know ?!
 |----------------------------	|-----------------------|
 |	[Android](doc/android.md)	|	Awesome Androids	|
 |	[iOS](doc/ios.md)			|	Awesome iOSs		|
-|	[AI](doc/ai.md)		|	Awesome AIs			|
+|	[AI](doc/ai.md), [DataSet](doc/ai_dataset.md)		|	Awesome AIs			|
 |	[Front-End](doc/front_end.md)	|	Awesome Front-Ends		|
 |	[HardWare](doc/hardware.md)|	Awesome HardWares	|
 |	[Tech](doc/tech_all.md)|	Awesome Techs Alls	|
