@@ -73,6 +73,8 @@ Awesome Android ~
 - [MyDiary](https://github.com/erttyy8821/MyDiary)  君の名は。, 你的名字  
 - [HeartBeat](https://github.com/maxiee/HeartBeat)  心动——记录生活中的心动瞬间.
 - [Bingo](https://github.com/sfsheng0322/Bingo) IT阅读学习App
+- [BookReader](https://github.com/JustWayward/BookReader)  网络小说阅读器
+- [Shopping](https://github.com/atguigu01/Shopping) 硅谷商城
 
 > **音视图**
 
@@ -165,7 +167,14 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - Launcher:  [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher); 
 - 底部导航: [BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx); [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
 - 日历控件：[material-calendarview](https://github.com/prolificinteractive/material-calendarview);[EasyCalendar](https://github.com/shichaohui/EasyCalendar);[calendar](https://github.com/AppianZ/calendar);
+- 图表: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart )
 
 # WebLinks
 
 - [androiddevtools](http://www.androiddevtools.cn/)
+
+
+
+# All
+
+- [2017年Android百大框架排行榜](http://www.cnblogs.com/jincheng-yangchaofan/articles/7018780.html)
