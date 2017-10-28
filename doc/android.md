@@ -19,6 +19,7 @@ Awesome Android ~
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)[![GitHub stars](https://img.shields.io/github/stars/Tim9Liu9/TimLiu-Android.svg?style=social&label=Star)](https://github.com/Tim9Liu9/TimLiu-Android)
 - [corelink](https://github.com/lizhangqu/corelink) Android 开发中的日常积累 [![GitHub stars](https://img.shields.io/github/stars/lizhangqu/corelink.svg?style=social&label=Star)](https://github.com/lizhangqu/corelink)
 - [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) Android开发技术前线[![GitHub stars](https://img.shields.io/github/stars/bboyfeiyu/android-tech-frontier.svg?style=social&label=Star)](https://github.com/bboyfeiyu/android-tech-frontier)
+- [AndroidNote](https://github.com/GcsSloop/AndroidNote ) 安卓学习笔记
 - [android-components-collection](http://colobu.com/2014/08/15/android-components-collection/) 最流行的android组件大全
 
 
@@ -75,6 +76,7 @@ Awesome Android ~
 - [Bingo](https://github.com/sfsheng0322/Bingo) IT阅读学习App
 - [BookReader](https://github.com/JustWayward/BookReader)  网络小说阅读器
 - [Shopping](https://github.com/atguigu01/Shopping) 硅谷商城
+- [weiciyuan](https://github.com/qii/weiciyuan) 四次元（原微次元）
 
 > **音视图**
 
@@ -99,14 +101,16 @@ Awesome Android ~
 A fully Material ToDo app with minimal features, just enough to be useful.
 - [Todo-Android](https://github.com/rakuishi/Todo-Android)
 Todo Android App using Realm and Lolipop Material Design.
-- [TodayThing](https://github.com/zhenghuiy/TodayThing)
-一款简单的 Material Design 风格的 to do list 应用
+- [TodayThing](https://github.com/zhenghuiy/TodayThing)  一款简单的 Material Design 风格的 to do list 应用
+- [YingBeautyNote](https://github.com/HuTianQi/YingBeautyNote) 一款类似印象笔记的App
 - [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)  Amaze File Manager
 - [MobileSafer](https://github.com/msAndroid/MobileSafer)  手机安全小卫士
 - [MobileGuard](https://github.com/ittianyu/MobileGuard) 一个管理安卓手机的应用，支持安卓7.0 
 - [MemoryMonitor](https://github.com/cundong/MemoryMonitor) 一款开发者专用的内存清理、Pss监控工具    
 - [TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)Android计步模块     
 - [SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) 免root兼容所有版本ui调试工具
+- [androidScreenShareAndControl](https://github.com/android-notes/androidScreenShareAndControl) 免root兼容所有android屏幕实时共享及远程控制
+- [NetGuard](https://github.com/M66B/NetGuard) simple way to block access to the internet per application
 
 
 # Modules
@@ -163,11 +167,12 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - 搜索： [BilibiliSearchView](https://github.com/didixyy/BilibiliSearchView); [CardSearchView](https://github.com/limuyang2/CardSearchView)
 - SeekBar： [BubbleSeekBar](https://github.com/sathishmscict/BubbleSeekBar) 
 - Menu： [duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)(Drawer Menu)
-- PopupWindow： [EasyPopup](https://github.com/zyyoona7/EasyPopup) 
+- PopupWindow： [EasyPopup](https://github.com/zyyoona7/EasyPopup)，[BasePopup](https://github.com/razerdp/BasePopup)   
 - Launcher:  [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher); 
 - 底部导航: [BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx); [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
 - 日历控件：[material-calendarview](https://github.com/prolificinteractive/material-calendarview);[EasyCalendar](https://github.com/shichaohui/EasyCalendar);[calendar](https://github.com/AppianZ/calendar);
 - 图表: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart )
+- [android-UCToast](https://github.com/liaohuqiu/android-UCToast) UC 浏览器复制，无需权限提示悬浮窗实现
 
 # WebLinks
 
@@ -178,4 +183,5 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 
 # All
 
+- [一言不合就学习：GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
 - [2017年Android百大框架排行榜](http://www.cnblogs.com/jincheng-yangchaofan/articles/7018780.html)
