@@ -14,3 +14,7 @@
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI)  移动应用开发框架
 
 
+## Wechat
+
+- [weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools) 微信支付、小程序、企业号和公众号（包括服务号和订阅号） Java SDK开发工具包
+
