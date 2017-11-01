@@ -18,5 +18,6 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
 
-# Algorithm
+# Algorithm & Pattern
 - [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java 
