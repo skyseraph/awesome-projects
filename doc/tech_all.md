@@ -17,3 +17,6 @@
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
+
+# Algorithm
+- [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
