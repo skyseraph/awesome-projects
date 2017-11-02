@@ -64,7 +64,7 @@ Awesome Android ~
 - [diycode](https://github.com/GcsSloop/diycode) [Diycode](https://www.diycode.cc/)社区客户端
 - [RxGank](https://github.com/sfsheng0322/RxGank) 干货集中营客户端
 
-> **资讯/生活**
+> **资讯/生活/社交**
   
 - [LookLook](https://github.com/xinghongfei/LookLook) 新闻阅读，知乎日报等
 - [POCenter](https://github.com/ittianyu/POCenter)外包平台
@@ -77,6 +77,7 @@ Awesome Android ~
 - [BookReader](https://github.com/JustWayward/BookReader)  网络小说阅读器
 - [Shopping](https://github.com/atguigu01/Shopping) 硅谷商城
 - [weiciyuan](https://github.com/qii/weiciyuan) 四次元（原微次元）
+- [Perfect_IM_SNS](https://github.com/CameloeAnthony/Perfect_IM_SNS)
 
 > **音视图**
 
@@ -86,7 +87,6 @@ Awesome Android ~
 - [SmarterStreaming](https://github.com/daniulive/SmarterStreaming)大牛直播
 - [Material-Movies ](https://github.com/saulmm/Material-Movies)  MD风格视频播放器
 - [StockChart ](https://github.com/AndroidJiang/StockChart) 股票走势图
-
 
 > **工具类**
 
