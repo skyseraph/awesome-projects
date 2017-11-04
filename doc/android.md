@@ -178,6 +178,8 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 
 - [android-arsenal](https://android-arsenal.com/)
 - [androiddevtools](http://www.androiddevtools.cn/)
+- [jcodecraeer](http://www.jcodecraeer.com/) 开源代码
+- [ctolib](https://www.ctolib.com/) CTOLib
 
 
 
