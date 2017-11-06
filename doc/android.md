@@ -50,6 +50,7 @@ Awesome Android ~
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) 更纯净的知乎日报   
 - [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) 知乎专栏 
 - [Tucao](https://github.com/blackbbc/Tucao)  [吐槽三方客户端](http://www.tucao.tv/)
+- [Pet](https://github.com/548986/Pet) 仿有宠商城APP
 
 > **原生** 
 
