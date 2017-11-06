@@ -140,9 +140,10 @@ Todo Android App using Realm and Lolipop Material Design.
 - 网络：[retrofit](https://github.com/square/retrofit);[okhttp](https://github.com/square/okhttp);[RxEasyHttp](https://github.com/zhou-you/RxEasyHttp);[NoHttp](https://github.com/yanzhenjie/NoHttp)
 - 通信：[EventBus](https://github.com/greenrobot/EventBus); [AndroidEventBus](https://github.com/hehonghui/AndroidEventBus); [otto](https://github.com/square/otto)
 - 图片：    
-glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https://github.com/sfsheng0322/GlideImageView); [Matisse多图选择](https://github.com/zhihu/Matisse);  
+glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https://github.com/sfsheng0322/GlideImageView); [Matisse多图选择](https://github.com/zhihu/Matisse); [glide-transformations](https://github.com/wasabeef/glide-transformations);    
 photoview系： [photoview](https://github.com/chrisbanes/PhotoView); [DragPhotoView拖拽返回](https://github.com/githubwing/DragPhotoView)  
-others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);    
+others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);[android-gpuimage](https://github.com/CyberAgent/android-gpuimage)  Android filters based on OpenGL   
+
 - 支付：[RxPay](https://github.com/Cuieney/RxPay)  
 - 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)  
 - 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)  
