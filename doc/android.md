@@ -31,6 +31,7 @@ Awesome Android ~
 - [wechat ](https://github.com/motianhuo/wechat)  仿微信   
 - [WeiBo](https://github.com/wenmingvs/WeiBo)   仿新浪微博   
 - [TouTiao ](https://github.com/chaychan/TouTiao)仿今日头条   
+- [Toutiao](https://github.com/iMeiji/Toutiao) 仿今日头条客户端, MVP + RxJava + Retrofit
 - [TopNews  ](https://github.com/Rano1/TopNews) 高仿“今日头条”客户端   
 - [KingTV ](https://github.com/jenly1314/KingTV) 仿全民直播（全民TV）  
 - [likequanmintv](https://github.com/a371166028/likequanmintv) 仿全民TV
