@@ -143,7 +143,7 @@ Todo Android App using Realm and Lolipop Material Design.
 - 图片：    
 glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https://github.com/sfsheng0322/GlideImageView); [Matisse多图选择](https://github.com/zhihu/Matisse); [glide-transformations](https://github.com/wasabeef/glide-transformations);    
 photoview系： [photoview](https://github.com/chrisbanes/PhotoView); [DragPhotoView拖拽返回](https://github.com/githubwing/DragPhotoView)  
-others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);[android-gpuimage](https://github.com/CyberAgent/android-gpuimage)  Android filters based on OpenGL   
+others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);[android-gpuimage](https://github.com/CyberAgent/android-gpuimage)  Android filters based on OpenGL;[Ken Burns effect图片展示效果](https://github.com/flavioarfaria/KenBurnsView) ;        
 
 - 支付：[RxPay](https://github.com/Cuieney/RxPay)  
 - 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)  
