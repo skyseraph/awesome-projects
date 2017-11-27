@@ -16,5 +16,6 @@
 
 ## Wechat
 
+- [Wechat-Group](https://github.com/Wechat-Group) 微信开发者联盟
 - [weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools) 微信支付、小程序、企业号和公众号（包括服务号和订阅号） Java SDK开发工具包
 
