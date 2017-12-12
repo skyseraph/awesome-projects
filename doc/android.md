@@ -54,6 +54,7 @@ Awesome Android ~
 - [Tucao](https://github.com/blackbbc/Tucao)  [吐槽三方客户端](http://www.tucao.tv/)
 - [Pet](https://github.com/548986/Pet) 仿有宠商城APP
 
+
 > **原生** 
 
 - [OSChina](http://git.oschina.net/oschina/android-app)
@@ -81,6 +82,7 @@ Awesome Android ~
 - [Shopping](https://github.com/atguigu01/Shopping) 硅谷商城
 - [weiciyuan](https://github.com/qii/weiciyuan) 四次元（原微次元）
 - [Perfect_IM_SNS](https://github.com/CameloeAnthony/Perfect_IM_SNS)
+- [YiZhi](https://github.com/Horrarndoo/YiZhi) 实现日报、新闻、干货、影视等资讯，个人项目
 
 > **音视图**
 
