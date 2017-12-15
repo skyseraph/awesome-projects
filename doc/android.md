@@ -148,7 +148,7 @@ glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https:/
 photoview系： [photoview](https://github.com/chrisbanes/PhotoView); [DragPhotoView拖拽返回](https://github.com/githubwing/DragPhotoView)  
 others： [picasso](https://github.com/square/picasso);[PaletteImageView特效图片](https://github.com/DingMouRen/PaletteImageView); [cropiwa图片裁剪](https://github.com/steelkiwi/cropiwa);[android-gpuimage](https://github.com/CyberAgent/android-gpuimage)  Android filters based on OpenGL;[Ken Burns effect图片展示效果](https://github.com/flavioarfaria/KenBurnsView) ;        
 
-- 支付：[RxPay](https://github.com/Cuieney/RxPay)  
+- 支付：[RxPay](https://github.com/Cuieney/RxPay) ;[免sdk App打赏功能](https://github.com/CankingApp/MiniPay)       
 - 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)  
 - 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)  
 - 热更新: 
