@@ -15,3 +15,10 @@ AI DataSets
 # Car
 - [车辆颜色](http://mclab.eic.hust.edu.cn/~pchen/project.html )
 - [车辆类型](http://iitlab.bit.edu.cn/mcislab/vehicledb/)
+
+
+# AI Webs
+
+- [arxiv](https://arxiv.org)
+- [gitxiv](http://www.gitxiv.com)
+- [你是这样获取人工智能AI前沿信息的吗？](https://zhuanlan.zhihu.com/p/21263408)
