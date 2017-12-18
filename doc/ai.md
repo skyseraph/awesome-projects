@@ -12,6 +12,8 @@
 - [Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL)[![GitHub stars](https://img.shields.io/github/stars/tomepel/Technical_Book_DL.svg?style=social&label=Star)](https://github.com/tomepel/Technical_Book_DL)
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)[![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence.svg?style=social&label=Star)](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [HanLP](https://github.com/hankcs/HanLP)[![GitHub stars](https://img.shields.io/github/stars/hankcs/HanLP.svg?style=social&label=Star)](https://github.com/hankcs/HanLP) 自然语言处理 
+- [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)[![GitHub stars](https://img.shields.io/github/stars/lisa-lab/DeepLearningTutorials.svg?style=social&label=Star)](https://github.com/lisa-lab/DeepLearningTutorials)
+
 
 ## TensorFlow
 - [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow.svg?style=social&label=Star)
