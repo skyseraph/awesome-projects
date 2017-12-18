@@ -12,12 +12,18 @@
 
 # Programming Language
 
+## Java   
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+- [tackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)
+
+## Python   
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+- [flashtext](https://github.com/vi3k6i5/flashtext)  Extract Keywords from sentence or Replace keywords in sentences.  
+
+## Ohters   
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
 - [go](https://github.com/golang/go) The Go Programming Language
 - [awesome-go](https://github.com/avelino/awesome-go)
-- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
-- [tackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)
 
 # Algorithm & Pattern
 - [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
