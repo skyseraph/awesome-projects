@@ -27,11 +27,15 @@
 
 - [machine-learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
+## Others
+
+- [Federated Search](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.8948&rep=rep1&type=pdf) Arguello大牛slide
+
 # Projects
 
 ## AI
 
-- [EasyML](https://github.com/ICT-BDA/EasyML)
+- [EasyML](https://github.com/ICT-BDA/EasyML)  
 
 ## TensorFlow
 - [music_recommender](https://github.com/mattmurray/music_recommender)   [article](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
