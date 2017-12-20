@@ -21,6 +21,16 @@
 
 - [V2EX社区(Python)](https://github.com/livid/v2ex)
 - [CNode社区(Node.js +MongoDB)](https://github.com/cnodejs/nodeclub/),[移动端(React-Native)](https://github.com/soliury/noder-react-native)    
+- [octopus](https://github.com/livechat/octopus)  开源WiKi系统
+- [discourse](https://github.com/discourse/discourse) 
+- [b3log系列](http://b3log.org/)  在线IDE-Wide，[Java开源博客-Solo](https://github.com/b3log/solo)，[开源社区-Symphony)[https://github.com/b3log/symphony]，[背单词App-Wordman](https://github.com/b3log/wordman)
+- [homeland (Ruby)](https://github.com/ruby-china/homeland)   开源社区（testHome采用）
+- [golang (Go)](https://github.com/jimmykuu/gopher)  [golang中国源码](https://www.golangtc.com)
+- [wecenter (PHP)](https://github.com/wecenter/wecenter )  一款知识型的社交化开源社区程序
+- [Carbon Forum (PHP)](https://github.com/lincanbin/Carbon-Forum)  [Carbon Forum](https://www.94cb.com) [Android移动端 ](https://github.com/lincanbin/Android-Carbon-Forum)
+- [StartupsCampfire (laravel5.1)](https://github.com/EdenChan/StartupsCampfire)
+- [mooder (Django)](https://github.com/phith0n/mooder)   [一款开源、安全、简洁、强大的团队内部知识分享平台](https://phith0n.github.io/mooder/)
+
 
 # Modules
 
