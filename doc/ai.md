@@ -38,6 +38,10 @@
 
 - [EasyML](https://github.com/ICT-BDA/EasyML)  
 
+## Mobile AI(Android/iOS)
+
+- [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)
+
 ## TensorFlow
 - [music_recommender](https://github.com/mattmurray/music_recommender)   [article](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
 
