@@ -40,4 +40,7 @@
 ## TensorFlow
 - [music_recommender](https://github.com/mattmurray/music_recommender)   [article](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
 
+# Object Recognize
 
+- [Deep Learning for Objects and Scenes](http://deeplearning.csail.mit.edu)
+- [SSD-tensorflow](https://github.com/balancap/SSD-Tensorflow)
