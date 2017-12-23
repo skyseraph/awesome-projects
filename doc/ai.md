@@ -25,6 +25,7 @@
 
 ## ML
 
+- [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
 - [machine-learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
 ## Others
