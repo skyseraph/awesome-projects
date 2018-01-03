@@ -18,7 +18,10 @@
 
 ## Python   
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
-- [flashtext](https://github.com/vi3k6i5/flashtext)  Extract Keywords from sentence or Replace keywords in sentences.  
+- [awesome-python-books](https://github.com/jobbole/awesome-python-books)
+- [PythonShare](https://github.com/Yixiaohan/codeparkshare)
+- [flashtext](https://github.com/vi3k6i5/flashtext)  Extract Keywords from sentence or Replace keywords in sentences.   
+
 
 ## Ohters   
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
