@@ -16,7 +16,7 @@
 
 
 ## TensorFlow
-- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)[![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow.svg?style=social&label=Star)
+- [awesome-tensorflow](https://github.com/AllAwsome/awesome-tensorflow)
 
 
 ## CV
@@ -26,8 +26,6 @@
 ## ML
 - [machine-learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)机器学习算法python实现
-- [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
-- [ml-playground](http://ml-playground.com)
 
 ## Others
 
@@ -38,6 +36,10 @@
 ## AI
 
 - [EasyML](https://github.com/ICT-BDA/EasyML)  
+
+## ML
+- [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
+- [ml-playground](http://ml-playground.com)
 
 ## Mobile AI(Android/iOS)
 
