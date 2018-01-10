@@ -1,5 +1,9 @@
 
 
+# All
+- [2017 年GitHub中最为流行的30个开源机器学习项目](https://www.jiqizhixin.com/articles/2018-01-06-5)
+- [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
+
 # Awesomes
 
 ## AI 
@@ -38,8 +42,6 @@
 - [EasyML](https://github.com/ICT-BDA/EasyML)  
 
 ## ML
-- [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
-- [2017年GitHub中最为流行的30个开源机器学习项目](https://mp.weixin.qq.com/s/ymXmnFjGUtItK_vxk6klSA)
 - [ml-playground](http://ml-playground.com)
 
 ## Mobile AI(Android/iOS)
