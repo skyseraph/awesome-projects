@@ -22,7 +22,7 @@
 - [PythonShare](https://github.com/Yixiaohan/codeparkshare)
 - [flashtext](https://github.com/vi3k6i5/flashtext)  Extract Keywords from sentence or Replace keywords in sentences.   
 - [Python](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Python.md)
-- [python3-cookbook EBook](https://github.com/yidao620c/python3-cookbook)
+- [python3-cookbook EBook](https://github.com/yidao620c/python3-cookbook)  [cn](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
 - [不可错过的Python技术博客](http://www.dongwm.com/archives/不可错过的Python技术博客/)
 
 ## Ohters   
