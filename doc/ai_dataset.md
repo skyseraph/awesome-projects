@@ -23,4 +23,5 @@ AI DataSets
 
 - [arxiv](https://arxiv.org)
 - [gitxiv](http://www.gitxiv.com)
+- [LinkDevbAI](https://github.com/skyseraph/Soft-Tools/blob/master/docs/LinkDevbAI.md)
 - [你是这样获取人工智能AI前沿信息的吗？](https://zhuanlan.zhihu.com/p/21263408)
