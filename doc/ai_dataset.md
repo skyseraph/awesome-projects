@@ -5,7 +5,8 @@ AI DataSets
 
 ## All
 - [openimages](https://github.com/openimages/dataset)
-- [ Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/ )
+- [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/ )
+- [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) 10个类别ML基准测试集
 
 ## Face
 - [香港的CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
