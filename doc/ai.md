@@ -26,6 +26,8 @@
 ## CV
 - [computer-science](https://github.com/ossu/computer-science)[![GitHub stars](https://img.shields.io/github/stars/ossu/computer-science.svg?style=social&label=Star)](https://github.com/ossu/computer-science)
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)[![GitHub stars](https://img.shields.io/github/stars/wanghaisheng/awesome-ocr.svg?style=social&label=Star)](https://github.com/wanghaisheng/awesome-ocr)
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ## ML
 - [machine-learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
