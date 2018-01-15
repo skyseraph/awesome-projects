@@ -4,6 +4,11 @@ AI DataSets
 # DataSets
 
 ## All
+
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [Amazon’s AWS datasets](http://aws.amazon.com/fr/datasets/)
+
 - [openimages](https://github.com/openimages/dataset)
 - [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/ )
 - [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) 10个类别ML基准测试集
