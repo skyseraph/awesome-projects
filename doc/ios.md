@@ -15,6 +15,8 @@
 - [Awsome-Apple-Develop-Guide](https://github.com/icepy/Awsome-Apple-Develop-Guide)[![GitHub stars](https://img.shields.io/github/stars/icepy/Awsome-Apple-Develop-Guide.svg?style=social&label=Star)](https://github.com/icepy/Awsome-Apple-Develop-Guide) 
 - [analyze](https://github.com/Draveness/analyze)[![GitHub stars](https://img.shields.io/github/stars/Draveness/analyze.svg?style=social&label=Star)](https://github.com/Draveness/analyze)iOS开源框架源码剖析
 - [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)[![GitHub stars](https://img.shields.io/github/stars/iamdaiyuan/ios_top_1000.svg?style=social&label=Star)](https://github.com/iamdaiyuan/ios_top_1000)
+- [SwiftTips](https://github.com/JohnSundell/SwiftTips)[![GitHub stars](https://img.shields.io/github/stars/JohnSundell/SwiftTips.svg?style=social&label=Star)](https://github.com/JohnSundell/SwiftTips) 
+
 
 # Projects
 
@@ -35,4 +37,7 @@
 - [TodayMind](https://github.com/cyanzhong/TodayMind)日历提醒
 - [CoreLock](https://github.com/CharlinFeng/CoreLock) 仿支付宝解锁
 - [ZYChat](https://github.com/zyprosoft/ZYChat) 聊天UI框架
+  
+# Blogs
+- [王巍 (@ONEVCAT)](http://swifter.tips)
   
