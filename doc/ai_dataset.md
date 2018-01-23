@@ -38,6 +38,11 @@ AI DataSets
 - [车辆类型](http://iitlab.bit.edu.cn/mcislab/vehicledb/)
 
 
+# AI EBooks
+- [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+- [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
+- [Artificial Intelligence A Modern Approach (3rd Edition)](https://dcs.abu.edu.ng/staff/abdulrahim-abdulrazaq/courses/cosc208/Artificial Intelligence A Modern Approach (3rd Edition).pdf)
+
 # AI Webs
 
 - [arxiv](https://arxiv.org)
