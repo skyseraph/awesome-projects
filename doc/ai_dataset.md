@@ -42,6 +42,7 @@ AI DataSets
 - [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
 - [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
 - [Artificial Intelligence A Modern Approach-3rd Edition](http://aima.cs.berkeley.edu)
+- [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 
 # AI Webs
 
