@@ -43,6 +43,7 @@
 ## AI
 
 - [EasyML](https://github.com/ICT-BDA/EasyML)  
+- [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 
 ## ML
 - [ml-playground](http://ml-playground.com)
