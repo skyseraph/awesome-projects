@@ -45,16 +45,30 @@
 ### Handwritten
 - [MNIST](http://yann.lecun.com/exdb/mnist/)  handwritten digit
 
-### Text Analysis
+### NLP/Text Analysis
 - [SentimentPolarity](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 - [DocumentClassification](https://github.com/toddkramer/DocumentClassifier/)
 - [MessageClassifier](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 - [NamesDT](http://nlpforhackers.io)
+- [Maluuba Datasets](https://datasets.maluuba.com)
+- [Billion Words](http://www.statmt.org/lm-benchmark/)
+- [Common Crawl](http://commoncrawl.org/the-data/)
+
+### Geospatial
+- [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Planet.osm) OpenStreetMap data
+- [Landsat8](https://landsat.usgs.gov/landsat-8) The Landsat 8 satellite images(卫星拍摄的地球表面数据)
+- [NEXRAD](https://www.ncdc.noaa.gov/data-access/radar-data/nexrad) The Next Generation Weather Radar（国大气环境数据）
 
 ### others
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Amazon’s AWS datasets](http://aws.amazon.com/fr/datasets/)
+
+## Voice
+- [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1)
+- [CHIME](http://spandh.dcs.shef.ac.uk/chime_challenge/data.html)
+- [VoxForge](http://www.voxforge.org)
+- [TED-LIUM](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)
 
 ## Google
 - [YouTube-8M](https://research.google.com/youtube8m/) 使用 4,716 个不同类别标记超过 700 万个 YouTube 视频
