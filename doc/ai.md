@@ -4,7 +4,7 @@
 - [2017 年GitHub中最为流行的30个开源机器学习项目](https://www.jiqizhixin.com/articles/2018-01-06-5)
 - [2017年度盘点：15个最流行的GitHub机器学习项目](https://mp.weixin.qq.com/s/1HqAPV7l5Oi4xKqpN6q5GA)
 
-# Awesomes
+# AI Awesomes
 
 ## AI 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning )[![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg?style=social&label=Star)](https://github.com/josephmisiti/awesome-machine-learning)
@@ -38,7 +38,7 @@
 
 - [Federated Search](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.8948&rep=rep1&type=pdf) Arguello大牛slide
 
-# Projects
+# AI Projects
 
 ## AI
 
@@ -54,7 +54,21 @@
 ## TensorFlow
 - [music_recommender](https://github.com/mattmurray/music_recommender)   [article](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
 
-# Object Recognize
+## Object Recognize
 
 - [Deep Learning for Objects and Scenes](http://deeplearning.csail.mit.edu)
 - [SSD-tensorflow](https://github.com/balancap/SSD-Tensorflow)
+
+# AI EBooks
+- [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+- [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
+- [Artificial Intelligence A Modern Approach-3rd Edition](http://aima.cs.berkeley.edu)
+- [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
+
+# AI Webs
+
+- [arxiv](https://arxiv.org)
+- [gitxiv](http://www.gitxiv.com)
+- [LinkDevbAI](https://github.com/skyseraph/Soft-Tools/blob/master/docs/LinkDevbAI.md)
+- [你是这样获取人工智能AI前沿信息的吗？](https://zhuanlan.zhihu.com/p/21263408)
+
