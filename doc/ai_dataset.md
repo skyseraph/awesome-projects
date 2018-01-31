@@ -2,7 +2,6 @@
 
 ## Awesomes 
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 
 ## Images
 
