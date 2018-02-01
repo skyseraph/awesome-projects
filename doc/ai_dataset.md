@@ -5,6 +5,7 @@
 
 ## Images
 
+- [Microsoft COCO](http://cocodataset.org)
 - [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/ )
 - [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) 10个类别ML基准测试集
 - [ImageNet](http://www.image-net.org)
