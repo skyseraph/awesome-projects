@@ -26,7 +26,7 @@
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook)  , [cn](http://python3-cookbook.readthedocs.io/zh_CN/latest/), [笔记](https://www.gitbook.com/book/l1nwatch/python-cookbook/details)
 - [不可错过的Python技术博客](http://www.dongwm.com/archives/不可错过的Python技术博客/)
 
-## Ohters   
+## Others   
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
 - [go](https://github.com/golang/go) The Go Programming Language
 - [awesome-go](https://github.com/avelino/awesome-go)
