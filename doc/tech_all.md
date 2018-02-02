@@ -12,10 +12,19 @@
 
 # Programming Language
 
+## C/CPP
+- [awesome-c](https://github.com/kozross/awesome-c)
+- [awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+
 ## Java   
+- [awesome-java](https://github.com/akullpp/awesome-java)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [tackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)
 - [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
+- [useful-java-links](https://github.com/Vedenin/useful-java-links)
 
 ## Python   
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
@@ -30,6 +39,7 @@
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
 - [go](https://github.com/golang/go) The Go Programming Language
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 
 # Algorithm & Pattern
 - [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
