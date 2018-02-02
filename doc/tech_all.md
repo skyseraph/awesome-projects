@@ -15,6 +15,7 @@
 ## Java   
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [tackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)
+- [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
 
 ## Python   
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
