@@ -54,6 +54,7 @@
 - [Maluuba Datasets](https://datasets.maluuba.com)
 - [Billion Words](http://www.statmt.org/lm-benchmark/)
 - [Common Crawl](http://commoncrawl.org/the-data/)
+- [Text Recognition Data](http://www.robots.ox.ac.uk/~vgg/data/text/)
 
 ### Geospatial
 - [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Planet.osm) OpenStreetMap data
