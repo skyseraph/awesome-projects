@@ -1,4 +1,5 @@
 
+ Awesome AI 
 
 # All
 - [2017 年GitHub中最为流行的30个开源机器学习项目](https://www.jiqizhixin.com/articles/2018-01-06-5)
@@ -69,17 +70,20 @@
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 
 ## Webs
-
 - [arxiv](https://arxiv.org)
 - [gitxiv](http://www.gitxiv.com)
 - [LinkDevbAI](https://github.com/skyseraph/Soft-Tools/blob/master/docs/LinkDevbAI.md)
 - [你是这样获取人工智能AI前沿信息的吗？](https://zhuanlan.zhihu.com/p/21263408)
 
 ## Courses
-
 - [斯坦福大学课程CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 - [斯坦福大学课程CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [斯坦福大学课程CS20SI Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 - [fast.ai 的 Making neural nets uncool again](http://www.fast.ai)
 - [Andrew NG Deep Learning.ai](https://www.deeplearning.ai)
 - [2016年蒙特利尔深度学习暑期班](https://www.youtube.com/watch?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR&v=xK-bzjIQkmM)
+
+## DL/AI Libraries
+- [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/) 
+- [deepframeworks](https://github.com/zer0n/deepframeworks)  [深度学习框架的评估与比较](http://www.infoq.com/cn/news/2016/01/evaluation-comparison-deep-learn )  
+- [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn) Deeplearning4j, PyTorch, TensorFlow, Caffe, Keras, MxNet, Gluon & CNTK    
