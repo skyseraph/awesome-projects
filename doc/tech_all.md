@@ -34,6 +34,7 @@
 - [Python](https://github.com/skyseraph/Soft-Tools/blob/master/docs/Python.md)
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook)  , [cn](http://python3-cookbook.readthedocs.io/zh_CN/latest/), [笔记](https://www.gitbook.com/book/l1nwatch/python-cookbook/details)
 - [不可错过的Python技术博客](http://www.dongwm.com/archives/不可错过的Python技术博客/)
+- [wtfpython](https://github.com/satwikkansal/wtfpython)
 
 ## Others   
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) 
