@@ -82,6 +82,7 @@
 - [fast.ai 的 Making neural nets uncool again](http://www.fast.ai)
 - [Andrew NG Deep Learning.ai](https://www.deeplearning.ai)
 - [2016年蒙特利尔深度学习暑期班](https://www.youtube.com/watch?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR&v=xK-bzjIQkmM)
+- [李宏毅教授 《1天搞懂深度学习》]( https://www.slideshare.net/tw_dsconf/ss-62245351),[dl_tutorials](https://github.com/sjchoi86/dl_tutorials)
 
 ## DL/AI Libraries
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/) 
