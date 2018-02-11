@@ -7,7 +7,6 @@
 - [skill-map](https://github.com/TeamStuQ/skill-map)[![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg?style=social&label=Star)](https://github.com/TeamStuQ/skill-map) 技能图谱
 - [guides](https://github.com/freeCodeCamp/guides)[![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/guides.svg?style=social&label=Star)](https://github.com/freeCodeCamp/guides) A collection of easy-to-understand guides to programming tools 
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager)[![GitHub stars](https://img.shields.io/github/stars/ryanburgess/engineer-manager.svg?style=social&label=Star)](https://github.com/ryanburgess/engineer-manager) 
-- [opensource](https://github.com/programthink/opensource)[![GitHub stars](https://img.shields.io/github/stars/programthink/opensource.svg?style=social&label=Star)](https://github.com/programthink/opensource) 
 - [checkstyle](https://github.com/checkstyle/checkstyle)[![GitHub stars](https://img.shields.io/github/stars/checkstyle/checkstyle.svg?style=social&label=Star)](https://github.com/checkstyle/checkstyle)  编码规范
 
 # Programming Language
@@ -18,6 +17,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 - [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+- [opensource](https://github.com/programthink/opensource)[![GitHub stars](https://img.shields.io/github/stars/programthink/opensource.svg?style=social&label=Star)](https://github.com/programthink/opensource) python+cpp
 
 ## Java   
 - [awesome-java](https://github.com/akullpp/awesome-java)
