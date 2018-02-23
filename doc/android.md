@@ -131,10 +131,10 @@ Todo Android App using Realm and Lolipop Material Design.
 > **Utils**
 
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+- [XKnife-Android](https://github.com/SkySeraph-XKnife/XKnife-Android)
 - [RxTools](https://github.com/vondear/RxTools)
 - [KLog](https://github.com/ZhaoKaiQiang/KLog)
 - [ViewSupport](https://github.com/GcsSloop/ViewSupport) View辅助工具包
-- [XKnife-Android](https://github.com/SkySeraph-XKnife/XKnife-Android)
 - [OkLibDemo](https://github.com/huangweicai/OkLibDemo)
 - [TVProjectUtils](https://github.com/genius158/TVProjectUtils)
 - [SoftKeyboardUtil](https://github.com/zybieku/SoftKeyboardUtil)
@@ -153,7 +153,7 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)  
 - 热更新: 
 - 更新：[AppUpdate](https://github.com/WVector/AppUpdate);[CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)，  
-- 下载： [Aria](https://github.com/AriaLyy/Aria)  
+- 下载： [Aria](https://github.com/AriaLyy/Aria); [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)      
 - 弹幕： [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)  
 - 主题切换：[MagicaSakura](https://github.com/Bilibili/MagicaSakura); [Android-skin-support](https://github.com/ximsfei/Android-skin-support)   
 - 分享：[BiliShare](https://github.com/Bilibili/BiliShare)  
@@ -178,8 +178,9 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - Launcher:  [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher); 
 - 底部导航: [BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx); [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
 - 日历控件：[material-calendarview](https://github.com/prolificinteractive/material-calendarview);[EasyCalendar](https://github.com/shichaohui/EasyCalendar);[calendar](https://github.com/AppianZ/calendar);
-- 图表: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart )
+- 图表: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart); [AnimatedPieView](https://github.com/razerdp/AnimatedPieView) 饼图和环形图    
 - [android-UCToast](https://github.com/liaohuqiu/android-UCToast) UC 浏览器复制，无需权限提示悬浮窗实现
+- [FloatWindow](https://github.com/yhaolpz/FloatWindow)
 
 # WebLinks
 
