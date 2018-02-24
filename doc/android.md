@@ -60,7 +60,7 @@ Awesome Android ~
 - [OSChina](http://git.oschina.net/oschina/android-app)
 - [OSChina（Material Design风格）](http://git.oschina.net/handoop/FlowGeek)
 - [Hacker News](https://github.com/hidroh/materialistic)
-- [Github客户端](https://github.com/TellH/GitClub) 
+- Github: [GitClub](https://github.com/TellH/GitClub) [FastHub](https://github.com/k0shk0sh/FastHub)    
 - [GithubTrends](https://github.com/laowch/GithubTrends) 
 - [Meizhi](https://github.com/drakeet/Meizhi) 干妹子 
 - [android-arsenal.com](https://github.com/vbauer/android-arsenal.com) android-arsenal.com客户端 
