@@ -22,6 +22,8 @@
 - [VGG16](https://arxiv.org/abs/1409.1556)
 - [TinyYOLO](http://machinethink.net/blog/object-detection-with-yolo/)
 
+- [What is the class of this image?](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
+
 ### Person(Face/Age/Emotions/Gender..)
 - [香港的CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - [WIDERFACE](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
