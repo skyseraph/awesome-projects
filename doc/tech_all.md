@@ -9,6 +9,7 @@
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager)[![GitHub stars](https://img.shields.io/github/stars/ryanburgess/engineer-manager.svg?style=social&label=Star)](https://github.com/ryanburgess/engineer-manager) 
 - [checkstyle](https://github.com/checkstyle/checkstyle)[![GitHub stars](https://img.shields.io/github/stars/checkstyle/checkstyle.svg?style=social&label=Star)](https://github.com/checkstyle/checkstyle)  编码规范
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 # Programming Language
 
