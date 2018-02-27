@@ -30,7 +30,7 @@
 - [StartupsCampfire (laravel5.1)](https://github.com/EdenChan/StartupsCampfire)
 - [mooder (Django)](https://github.com/phith0n/mooder)   [一款开源、安全、简洁、强大的团队内部知识分享平台](https://phith0n.github.io/mooder/)
 - [b3log系列](http://b3log.org/) [Java开源博客-Solo](https://github.com/b3log/solo)，[开源社区-Symphony](https://github.com/b3log/symphony)，[背单词App-Wordman](https://github.com/b3log/wordman)
-
+- [flarum](https://github.com/flarum/core)
 
 # Modules
 
