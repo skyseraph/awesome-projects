@@ -11,6 +11,10 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
+# Tech Trends
+
+- [awesome-blockchain](https://github.com/chaozh/awesome-blockchain)
+
 # Programming Language
 
 ## C/CPP
