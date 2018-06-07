@@ -10,6 +10,7 @@
 - [checkstyle](https://github.com/checkstyle/checkstyle)[![GitHub stars](https://img.shields.io/github/stars/checkstyle/checkstyle.svg?style=social&label=Star)](https://github.com/checkstyle/checkstyle)  编码规范
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) 
 
 # Tech Trends
 
