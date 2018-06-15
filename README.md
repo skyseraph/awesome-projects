@@ -24,6 +24,7 @@ Star? Follow? Support?  You know ?!
 |	[Server](doc/service.md) |	Awesome Servers			|
 |	[Front-End](doc/front_end.md)	|	Awesome Front-Ends		|
 |	[HardWare](doc/hardWare.md)|	Awesome HardWares	|
+|	[Games](doc/game.md)|	Awesome Games	|
 |	[Tech](doc/tech_all.md)|	Awesome Techs Alls	|
 
 
