@@ -141,7 +141,7 @@ Todo Android App using Realm and Lolipop Material Design.
 
 > **Modules**
 
-- 网络：[retrofit](https://github.com/square/retrofit);[okhttp](https://github.com/square/okhttp);[RxEasyHttp](https://github.com/zhou-you/RxEasyHttp);[NoHttp](https://github.com/yanzhenjie/NoHttp)
+- 网络：[retrofit](https://github.com/square/retrofit); [okhttp](https://github.com/square/okhttp); [RxEasyHttp](https://github.com/zhou-you/RxEasyHttp); [NoHttp](https://github.com/yanzhenjie/NoHttp)
 - 通信：[EventBus](https://github.com/greenrobot/EventBus); [AndroidEventBus](https://github.com/hehonghui/AndroidEventBus); [otto](https://github.com/square/otto)
 - 图片：    
 glide系： [glide](https://github.com/bumptech/glide); [GlideImageView](https://github.com/sfsheng0322/GlideImageView); [Matisse多图选择](https://github.com/zhihu/Matisse); [glide-transformations](https://github.com/wasabeef/glide-transformations);    
@@ -150,6 +150,7 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 
 - 支付：[RxPay](https://github.com/Cuieney/RxPay) ;[免sdk App打赏功能](https://github.com/CankingApp/MiniPay)       
 - 框架：[XSnow](https://github.com/xiaoyaoyou1212/XSnow);[AndroidComponent](https://github.com/mqzhangw/AndroidComponent)  
+- JSON: [Gson](https://github.com/google/gson), [fastjson](https://github.com/alibaba/fastjson)   
 - 地图：[DingDingMap（地图特效）](https://github.com/DingMouRen/DingDingMap)  
 - 热更新: 
 - 更新：[AppUpdate](https://github.com/WVector/AppUpdate);[CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)，  
@@ -162,12 +163,8 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - DB: [LitePal](https://github.com/LitePalFramework/LitePal)  
 - 二维码： [zxing](https://github.com/zxing/zxing)  
 - 权限： [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher); [PermissionGen](https://github.com/lovedise/PermissionGen); [RxPermissions](https://github.com/tbruyelle/RxPermissions); [AndPermission](https://github.com/yanzhenjie/AndPermission)  
-- Wi-Fi：[WifiUtils](https://github.com/ThanosFisherman/WifiUtils); [IOT-Espressif](https://github.com/EspressifApp/IOT-Espressif-Android)        
-
-> **TV**
-
-- [TVRemoteIME](https://github.com/kingthy/TVRemoteIME)
-
+- Wi-Fi：[WifiUtils](https://github.com/ThanosFisherman/WifiUtils); [IOT-Espressif](https://github.com/EspressifApp/IOT-Espressif-Android)      
+- 播放器：[GSYVideoPlayer（IJKplayer、ExoPlayer、MediaPlayer）](https://github.com/CarGuo/GSYVideoPlayer)    
 
 > **UI**
 
@@ -182,10 +179,16 @@ others： [picasso](https://github.com/square/picasso);[PaletteImageView特效�
 - PopupWindow： [EasyPopup](https://github.com/zyyoona7/EasyPopup)，[BasePopup](https://github.com/razerdp/BasePopup)   
 - Launcher:  [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher); 
 - 底部导航: [BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx); [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
-- 日历控件：[material-calendarview](https://github.com/prolificinteractive/material-calendarview);[EasyCalendar](https://github.com/shichaohui/EasyCalendar);[calendar](https://github.com/AppianZ/calendar);
+- 日历：[material-calendarview](https://github.com/prolificinteractive/material-calendarview);[EasyCalendar](https://github.com/shichaohui/EasyCalendar);[calendar](https://github.com/AppianZ/calendar); [CalendarView万年历](https://github.com/huanghaibin-dev/CalendarView )    
 - 图表: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart); [AnimatedPieView](https://github.com/razerdp/AnimatedPieView) 饼图和环形图    
 - [android-UCToast](https://github.com/liaohuqiu/android-UCToast) UC 浏览器复制，无需权限提示悬浮窗实现
 - [FloatWindow](https://github.com/yhaolpz/FloatWindow)
+- [MagicIndicator](https://github.com/hackware1993/MagicIndicator)
+
+> **TV**
+
+- [TVRemoteIME](https://github.com/kingthy/TVRemoteIME)
+
 
 # WebLinks
 
