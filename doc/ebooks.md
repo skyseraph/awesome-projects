@@ -8,9 +8,11 @@
 - [鸠摩搜索](https://www.jiumodiary.com/) 专业搜书的聚合搜索引擎 
 - [盘搜](http://www.pansou.com/) 网盘搜索 
 - [Google 电驴资源搜索引擎](https://cse.google.com/cse/home?cx=006422944775554126616:gbrsbrjbfug) 
+
+# Kindle
+- [koreader](https://github.com/koreader/koreader),[在Kindle上安装和运行KOReader](https://github.com/koreader/koreader/wiki/在Kindle上安装和运行KOReader)
 - [Amazon Kindle电子书](https://www.amazon.cn/) 
 - [Kindle推](http://www.kindlepush.com/main) 
-
 
 # Awesomes
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)[![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg?style=social&label=Star)](https://github.com/EbookFoundation/free-programming-books)
