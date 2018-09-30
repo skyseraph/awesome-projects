@@ -10,6 +10,7 @@
 - [Google 电驴资源搜索引擎](https://cse.google.com/cse/home?cx=006422944775554126616:gbrsbrjbfug) 
 
 # Kindle
+- [书伴](https://bookfere.com/)
 - [koreader](https://github.com/koreader/koreader),[在Kindle上安装和运行KOReader](https://github.com/koreader/koreader/wiki/在Kindle上安装和运行KOReader)
 - [Amazon Kindle电子书](https://www.amazon.cn/) 
 - [Kindle推](http://www.kindlepush.com/main) 
